@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+openai
+bs4
+requests
+faiss-cpu
+langchain-openai
+langchain-community
+gspread
+google-auth
